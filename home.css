@@ -1,5 +1,6 @@
 body {
   background-color: white;
+  font-family: Roboto;
 }
 
 .grid {
@@ -51,8 +52,8 @@ img {
 
 }
 
-.search:hover {
-  font-weight: bold;
+.l_search:hover {
+  font-weight: bolder;
 }
 
 .l_search {
